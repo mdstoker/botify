@@ -1,2 +1,2 @@
 # botify
-this is a basic file
+this is a basic file 2.0
